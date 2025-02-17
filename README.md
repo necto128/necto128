@@ -3,7 +3,7 @@
 [![codewars](https://www.codewars.com/users/necto128/badges/small)](https://www.codewars.com/users/necto128)  
 
 
-- 🌱 I’m currently learning **Rest, Redis, Celery, Git, NGINX, AWS, Docker, MySQL, PostgreSQL, Django ORM, Django, FastApi, DRF, Python, Web, php**
+- 🌱 I’m currently learning **Rest, Redis, Celery, Git, NGINX, Heroky, Docker, MySQL, PostgreSQL, Django ORM, Django, FastApi, DRF, Python, Web**
 
 - 📫 How to reach me **nester.8.petr@gmail.com**
 
