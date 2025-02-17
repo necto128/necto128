@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Petr</a> </h1>
-<h3 align="center">Computer science student and IT news writer</h3>
+<h1 align="center">Hi there, I'm Petr</a> </h1>
 
 [![codewars](https://www.codewars.com/users/necto128/badges/small)](https://www.codewars.com/users/necto128)  
 
